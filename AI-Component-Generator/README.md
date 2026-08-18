@@ -191,12 +191,12 @@ During development, the application experienced **Gemini API quota restrictions*
 
 # 👩‍💻 Author
 
-**Tanisha Pandya**
+**Muskan Donwar**
 
 B.Tech Computer Science Student
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/NewuserSa1111
+- LinkedIn: www.linkedin.com/in/muskan-72656828a
 
 ---
 
